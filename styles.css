@@ -1,0 +1,40 @@
+.container1{
+	background-color: #202026;
+	width: 400px;
+	margin: auto;
+	text-align: center;
+}
+
+.form1{
+	background-color: #2f3d5c;
+	width: 303px;
+	box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 20px;
+	border: 5px solid white;
+	color: white;
+	font-size: 20px;
+}
+
+#submit{
+	background-color: #17d5e3;
+	color: white;
+	background-position: center;
+	width: 300px;
+	height: 50px;
+	font-size: 30px;
+	font-family: papyrus;
+}
+
+label{
+	font-weight: medium;
+	font-style: italic;
+}
+
+body{
+	background-image: url(https://cdn.discordapp.com/attachments/1164101168897724418/1280226460350808165/image0.gif?ex=66e1db4d&is=66e089cd&hm=9009a58ef3f38a210d90aa35346c1dc8de01b121f929054bb048cb974d3bce6a&);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1550px 800px;
+	background-attachment: fixed;
+}
