@@ -1,0 +1,39 @@
+.form1{
+	background-color: #001b57;
+	width: 950px;
+	box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 20px;
+	border: 4px solid white;
+}
+
+body{
+	background-image: url(https://preview.redd.it/d3h7ofnt73621.png?auto=webp&s=e4945cdcc8230ca651d2b1dfa123c61bb9c2d6a0);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1550px 800px;
+	background-attachment: fixed;
+}
+
+.desc{
+	background-color: #001b57;
+	width: 950px;
+	box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 20px;
+	border: 4px solid white;
+}
+
+.column {
+     width:300px;
+     float:left
+}
+
+.cast{
+	background-color: #001b57;
+	width: 950px;
+	box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 20px;
+	border: 4px solid white;
+}
